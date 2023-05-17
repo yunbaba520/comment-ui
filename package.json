@@ -1,6 +1,6 @@
 {
   "name": "comment-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a comment ui",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "keywords": ["comment", "ui", "element"],
   "author": "coderzyl",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunbaba520/comment-ui"
+  }
 }
